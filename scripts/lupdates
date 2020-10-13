@@ -1,3 +1,4 @@
 #!/bin/bash
 
-termite -e "sudo pacman -Syu"
+gnome-terminal -e "sudo apt-get update"
+gnome-terminal -e "sudo apt-get upgrade"
