@@ -1,8 +1,6 @@
 # My Polibar Theme Setup
 
-```
 ![alt text](./resources/desktop.png)
-```
 
 https://github.com/adi1090x/polybar-themes) repository.
 
