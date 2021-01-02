@@ -1,4 +1,3 @@
 #!/bin/bash
 
-gnome-terminal -e "sudo apt-get update"
-gnome-terminal -e "sudo apt-get upgrade"
+gnome-terminal -e "topgrade"
